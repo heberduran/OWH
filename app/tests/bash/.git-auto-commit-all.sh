@@ -1,0 +1,1 @@
+Enter git add --all at the command line prompt to add the files or changes to the repository.
